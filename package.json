@@ -1,7 +1,7 @@
 {
 	"name": "react-precios-crypto",
 	"version": "0.0.0",
-	"homepage": "https://julianhv20.github.io/coin-market-app",
+	"homepage": "http://julianhv20.github.io/coin-market-app",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
